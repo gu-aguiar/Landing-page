@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'AldotheApache';
+    src: url('../componentes/AldotheApache.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'FURTFW';
+    src: url('../componentes/FUTRFW.TTF');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'CodeServer';
+    src: url('../componentes/CodeSaver-Regular.otf');
+    font-weight: normal;
+    font-style: normal;
+}
